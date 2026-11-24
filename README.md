@@ -1,14 +1,13 @@
 # Heading Hierarchy (H1-H6) and Semantic Structure Validator
 
 [![Heading Hierarchy Validator](https://img.shields.io/badge/TAVARDT-Heading%20Hierarchy-5b3cf5.svg)](https://tools.tavardt.com/ca/heading-tags-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Canada-00C853.svg)](https://ag.tavardt.com/ca/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Verifying document outline coherence, H1 clarity, and accessible semantic tagging across bilingual sections.
 
-Engineered and maintained by the accessibility and web architecture division at **[TAVARDT Canada](https://ag.tavardt.com/ca/)**.
+Engineered and maintained by the accessibility and web architecture division at **TAVARDT Canada**.
 
----
+***
 
 ## Heading Hierarchy Auditing Highlights
 
@@ -18,7 +17,7 @@ Engineered and maintained by the accessibility and web architecture division at 
 * **Hierarchical Outline Tree**: Generating structured outlines of section headings.
 * **Document Outline Index**: 0 to 100 quantitative score measuring semantic rigor.
 
----
+***
 
 ## Installation and Usage
 
@@ -33,20 +32,20 @@ python heading_hierarchy_validator.py https://enterprise.ca
 JSON output mode:
 
 ```bash
-python heading_hierarchy_validator.py https://enterprise.ca --json
+python heading_hierarchy_validator.py https://enterprise.ca -json
 ```
 
----
+***
 
 ## Online Web Suite
 
 For real-time cloud-based heading hierarchy tests:
 
-* **[Official Heading Tags Checker](https://tools.tavardt.com/ca/heading-tags-checker/)**
-* **[TAVARDT Canada Portal](https://ag.tavardt.com/ca/)**
+* **Official Heading Tags Checker**
+* **TAVARDT Canada Portal**
 
----
+***
 
 ## Canadian Technical Services
 
-For guidance conforming to Treasury Board of Canada Web Standards and W3C WCAG Guidelines, reach out to **[TAVARDT Canada](https://ag.tavardt.com/ca/contact/)**.
+For guidance conforming to Treasury Board of Canada Web Standards and W3C WCAG Guidelines, reach out to **TAVARDT Canada**.
