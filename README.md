@@ -49,3 +49,7 @@ For real-time cloud-based heading hierarchy tests:
 ## Canadian Technical Services
 
 For guidance conforming to Treasury Board of Canada Web Standards and W3C WCAG Guidelines, reach out to **TAVARDT Canada**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
