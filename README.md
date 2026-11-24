@@ -5,7 +5,7 @@
 
 Verifying document outline coherence, H1 clarity, and accessible semantic tagging across bilingual sections.
 
-Engineered and maintained by the accessibility and web architecture division at **TAVARDT Canada**.
+Engineered and maintained by the accessibility and web architecture division at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python heading_hierarchy_validator.py https://enterprise.ca -json
 For real-time cloud-based heading hierarchy tests:
 
 * **Official Heading Tags Checker**
-* **TAVARDT Canada Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Canadian Technical Services
 
-For guidance conforming to Treasury Board of Canada Web Standards and W3C WCAG Guidelines, reach out to **TAVARDT Canada**.
+For guidance conforming to Treasury Board of Canada Web Standards and W3C WCAG Guidelines, reach out to **TAVARDT**.
 
 ***
 
