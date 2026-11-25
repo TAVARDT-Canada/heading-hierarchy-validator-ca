@@ -6,8 +6,6 @@
 
 Verifying document outline coherence, H1 clarity, and accessible semantic tagging across bilingual sections.
 
-Engineered and maintained by the accessibility and web architecture division at **TAVARDT**.
-
 ***
 
 ## Heading Hierarchy Auditing Highlights
@@ -38,15 +36,6 @@ python heading_hierarchy_validator.py https://enterprise.ca -json
 
 ***
 
-## Online Web Suite
-
-For real-time cloud-based heading hierarchy tests:
-
-* **Official Heading Tags Checker**
-* **TAVARDT Portal**
-
-***
-
 ## Canadian Technical Services
 
 For guidance conforming to Treasury Board of Canada Web Standards and W3C WCAG Guidelines, reach out to **TAVARDT**.
@@ -62,7 +51,7 @@ For guidance conforming to Treasury Board of Canada Web Standards and W3C WCAG G
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
