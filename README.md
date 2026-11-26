@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/ca/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Heading Hierarchy (H1-H6) and Semantic Structure Validator
 
 [![Heading Hierarchy Validator](https://img.shields.io/badge/TAVARDT-Heading%20Hierarchy-5b3cf5.svg)](https://tools.tavardt.com/ca/heading-tags-checker/)
